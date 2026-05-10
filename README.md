@@ -18,7 +18,7 @@ A modern expense tracking dashboard built with React and Tailwind CSS.
 - Lucide Icons
 
 ## Live Demo
-[Live Link]
+[\[Live Link\]](https://expense-tracker-sable-eight.vercel.app)
 
 ## Installation
 npm install
