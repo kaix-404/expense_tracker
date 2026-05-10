@@ -31,7 +31,7 @@ function ExpenseChart({ expenses }) {
 
   if (data.length === 0) {
     return (
-      <div className="bg-white/5 border border-white/10 rounded-3xl p-6 shadow-[0_10px_40px_rgba(0,0,0,0.35)]">
+      <div className="bg-slate-900 border border-slate-800 rounded-3xl p-6 shadow-[0_10px_40px_rgba(0,0,0,0.35)]">
         <h2 className="text-2xl font-semibold mb-4">
           Expense Analytics
         </h2>
@@ -44,7 +44,7 @@ function ExpenseChart({ expenses }) {
   }
 
   return (
-    <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-3xl p-6 shadow-[0_10px_40px_rgba(0,0,0,0.35)]">
+    <div className="bg-slate-900 border border-slate-800 rounded-3xl p-6 shadow-[0_10px_40px_rgba(0,0,0,0.35)]">
       <div className="mb-6">
         <h2 className="text-2xl font-semibold">
           Expense Analytics
